@@ -569,21 +569,21 @@ Text GLabel 3600 3150 0    50   Input ~ 0
 ROW2
 Text GLabel 3600 3900 0    50   Input ~ 0
 ROW3
-Text GLabel 4050 1100 1    50   Input ~ 0
+Text GLabel 4050 1100 1    50   Output ~ 0
 COL0
-Text GLabel 4850 1100 1    50   Input ~ 0
+Text GLabel 4850 1100 1    50   Output ~ 0
 COL1
-Text GLabel 5600 1100 1    50   Input ~ 0
+Text GLabel 5600 1100 1    50   Output ~ 0
 COL2
-Text GLabel 6300 1100 1    50   Input ~ 0
+Text GLabel 6300 1100 1    50   Output ~ 0
 COL3
-Text GLabel 2250 1950 2    50   Input ~ 0
+Text GLabel 2250 1950 2    50   Output ~ 0
 ROW0
-Text GLabel 2250 2050 2    50   Input ~ 0
+Text GLabel 2250 2050 2    50   Output ~ 0
 ROW1
-Text GLabel 2250 2150 2    50   Input ~ 0
+Text GLabel 2250 2150 2    50   Output ~ 0
 ROW2
-Text GLabel 2250 2250 2    50   Input ~ 0
+Text GLabel 2250 2250 2    50   Output ~ 0
 ROW3
 Text GLabel 2250 2450 2    50   Input ~ 0
 COL1
